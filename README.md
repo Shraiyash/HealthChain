@@ -1,5 +1,5 @@
 # HealtCHain
-HealthChain is a web platform designed to manage and share Electronic Medical Records (EHR) without the need of a central authority, hence decentralized. Our system uses blockchain technology to create a decentralized healthcare infrastructure, ensuring the utmost efficiency, security, and accessibility.
+HealthChain is a web platform designed to manage and share Electronic Medical Records (EMR) without the need of a central authority, hence decentralized. Our system uses blockchain technology to create a decentralized healthcare infrastructure, ensuring the utmost efficiency, security, and accessibility.
 
 The project is yet to be completed, however, here are a few snapshots of the web application so far.
 
